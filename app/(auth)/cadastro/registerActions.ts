@@ -1,6 +1,7 @@
 "use server";
 import db from "@/lib/db";
 import { hashSync } from "bcrypt-ts";
+import { redirect } from "next/navigation";
 
 export default async function registerActions(
   _prevState: any,
@@ -41,8 +42,5 @@ export default async function registerActions(
     }
   });
 
-  return {
-    message: "Usuário cadastrado com sucesso",
-    success: true
-  };
+  return redirect("/");
 }

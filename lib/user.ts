@@ -1,30 +1,24 @@
+import { hashSync } from "bcrypt-ts";
 import db from "./db";
-import { compareSync } from "bcrypt-ts";
 
 type User = {
   email: string;
-  password?: string;
+  password: string;
   name: string;
 };
 export async function findUserByCredentials({
   email,
   password
 }: User): Promise<User | null> {
-  const user = await db.user.findFirst({
+  const user = await db.user.findUnique({
     where: {
       email: email
-      // password: password
     }
   });
-
-  if (!user) {
+  console.log(email, password);
+  if (!user || user.password !== password) {
+    // if (!user || user.password !== hashSync(password)) {
     return null;
   }
-
-  const passwordMatch = await compareSync(password, user.password);
-
-  if (passwordMatch) {
-    return { email: user.email, name: user.name };
-  }
-  return null;
+  return user;
 }
