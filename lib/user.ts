@@ -1,4 +1,4 @@
-import { hashSync } from "bcrypt-ts";
+import { compareSync } from "bcrypt-ts";
 import db from "./db";
 
 type User = {
@@ -6,18 +6,16 @@ type User = {
   password: string;
   name: string;
 };
-export async function findUserByCredentials({
-  email,
-  password
-}: User): Promise<User | null> {
-  const user = await db.user.findUnique({
+export async function findUserByCredentials(
+  email: string,
+  password: string
+): Promise<User | null> {
+  const user = await db.user.findFirst({
     where: {
       email: email
     }
   });
-  console.log(email, password);
-  if (!user || user.password !== password) {
-    // if (!user || user.password !== hashSync(password)) {
+  if (!user || !compareSync(password, user.password)) {
     return null;
   }
   return user;

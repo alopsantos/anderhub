@@ -8,13 +8,12 @@ export default async function loginActions(
   formData: FormData
 ) {
   try {
-    // await signIn("credentials", {
-    //   email: formData.get("email") as string,
-    //   password: formData.get("password") as string,
-    //   redirect: true,
-    //   redirectTo: "/dashboard"
-    // });
-    await signIn("credentials", formData);
+    await signIn("credentials", {
+      email: formData.get("email") as string,
+      password: formData.get("password") as string,
+      redirect: true,
+      redirectTo: "/dashboard"
+    });
     return { success: true };
   } catch (e: any) {
     if (isRedirectError(e)) {

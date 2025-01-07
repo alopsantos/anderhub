@@ -20,14 +20,14 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
       authorize: async (credentials) => {
         try {
           let user = null;
+
           user = await findUserByCredentials(
-            credentials.email,
-            credentials.password
+            credentials.email as string,
+            credentials.password as string
           );
 
           return user;
         } catch (e) {
-          console.log(e);
           return null;
         }
       }
@@ -35,5 +35,3 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
   ],
   secret: process.env.NEXTAUTH_SECRET
 });
-
-// 0000000000000000000000000000006cecd634d268c0d4acb8a01f51eda7a4d8
