@@ -41,6 +41,6 @@ export default async function registerActions(
       password: hashSync(data.password)
     }
   });
-
+  db.$disconnect();
   return redirect("/");
 }

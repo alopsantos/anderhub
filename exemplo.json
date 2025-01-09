@@ -1,0 +1,62 @@
+[
+  {
+    "id": 16376121683,
+    "idProdutoPai": 16376121680,
+    "nome": "Vestido Kimono Kyra Off White COR:Off White;TAMANHO:G",
+    "codigo": "00641104",
+    "preco": 299.99,
+    "precoCusto": 0,
+    "estoque": {
+      "saldoVirtualTotal": 1
+    },
+    "tipo": "P",
+    "situacao": "A",
+    "formato": "S",
+    "descricaoCurta": "<div>VESTIDO KIMONO KYRA&nbsp;<br /><br /></div>\n<div>Vestido modelo kimono, possui amarra&ccedil;&otilde;es na parte da frente, para melhor ajuste no corpo, deixando a pe&ccedil;a mais acinturada. Ziper na parte das costas, acompanhado de bot&otilde;es para fechamento, forro na parte de dentro, possui tambem as mangas mais soltas, sem bojo. Uma pe&ccedil;a super elegante e confortavel.</div>\n<div>&nbsp;</div>\n<div>\n<div>\n<p>Composi&ccedil;&atilde;o da pe&ccedil;a: 70% viscose e 30% linho</p>\n<div>\n<table style=\"width: 733px;\" border=\"1\">\n<tbody>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\"><strong>Medidas</strong></td>\n<td style=\"width: 148.703px;\">P</td>\n<td style=\"width: 168.234px;\">M</td>\n<td style=\"width: 167.375px;\">G</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Veste&nbsp;</td>\n<td style=\"width: 148.703px;\">36/38</td>\n<td style=\"width: 168.234px;\">40/42</td>\n<td style=\"width: 167.375px;\">42/44</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Busto</td>\n<td style=\"width: 148.703px;\">96cm</td>\n<td style=\"width: 168.234px;\">110cm</td>\n<td style=\"width: 167.375px;\">114cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Mangas</td>\n<td style=\"width: 148.703px; text-align: center;\">36cm</td>\n<td style=\"width: 168.234px; text-align: center;\">36cm</td>\n<td style=\"width: 167.375px; text-align: center;\">36cm</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Cintura</td>\n<td style=\"width: 148.703px;\">86cm</td>\n<td style=\"width: 168.234px;\">96cm</td>\n<td style=\"width: 167.375px;\">106cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Comprimento</td>\n<td style=\"text-align: center; width: 148.703px;\">86cm</td>\n<td style=\"text-align: center; width: 168.234px;\">88cm</td>\n<td style=\"text-align: center; width: 167.375px;\">90cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Quadril</td>\n<td style=\"text-align: center; width: 148.703px;\">106cm</td>\n<td style=\"text-align: center; width: 168.234px;\">110cm</td>\n<td style=\"text-align: center; width: 167.375px;\">114cm</td>\n</tr>\n</tbody>\n</table>\n<p>*A tonalidade da cor pode variar de acordo com a sua tela ou monitor</p>\n</div>\n</div>\n<div>&nbsp;</div>\n</div>",
+    "imagemURL": ""
+  },
+  {
+    "id": 16376121682,
+    "idProdutoPai": 16376121680,
+    "nome": "Vestido Kimono Kyra Off White COR:Off White;TAMANHO:M",
+    "codigo": "00641103",
+    "preco": 299.99,
+    "precoCusto": 0,
+    "estoque": {
+      "saldoVirtualTotal": 4
+    },
+    "tipo": "P",
+    "situacao": "A",
+    "formato": "S",
+    "descricaoCurta": "<div>VESTIDO KIMONO KYRA&nbsp;<br /><br /></div>\n<div>Vestido modelo kimono, possui amarra&ccedil;&otilde;es na parte da frente, para melhor ajuste no corpo, deixando a pe&ccedil;a mais acinturada. Ziper na parte das costas, acompanhado de bot&otilde;es para fechamento, forro na parte de dentro, possui tambem as mangas mais soltas, sem bojo. Uma pe&ccedil;a super elegante e confortavel.</div>\n<div>&nbsp;</div>\n<div>\n<div>\n<p>Composi&ccedil;&atilde;o da pe&ccedil;a: 70% viscose e 30% linho</p>\n<div>\n<table style=\"width: 733px;\" border=\"1\">\n<tbody>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\"><strong>Medidas</strong></td>\n<td style=\"width: 148.703px;\">P</td>\n<td style=\"width: 168.234px;\">M</td>\n<td style=\"width: 167.375px;\">G</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Veste&nbsp;</td>\n<td style=\"width: 148.703px;\">36/38</td>\n<td style=\"width: 168.234px;\">40/42</td>\n<td style=\"width: 167.375px;\">42/44</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Busto</td>\n<td style=\"width: 148.703px;\">96cm</td>\n<td style=\"width: 168.234px;\">110cm</td>\n<td style=\"width: 167.375px;\">114cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Mangas</td>\n<td style=\"width: 148.703px; text-align: center;\">36cm</td>\n<td style=\"width: 168.234px; text-align: center;\">36cm</td>\n<td style=\"width: 167.375px; text-align: center;\">36cm</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Cintura</td>\n<td style=\"width: 148.703px;\">86cm</td>\n<td style=\"width: 168.234px;\">96cm</td>\n<td style=\"width: 167.375px;\">106cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Comprimento</td>\n<td style=\"text-align: center; width: 148.703px;\">86cm</td>\n<td style=\"text-align: center; width: 168.234px;\">88cm</td>\n<td style=\"text-align: center; width: 167.375px;\">90cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Quadril</td>\n<td style=\"text-align: center; width: 148.703px;\">106cm</td>\n<td style=\"text-align: center; width: 168.234px;\">110cm</td>\n<td style=\"text-align: center; width: 167.375px;\">114cm</td>\n</tr>\n</tbody>\n</table>\n<p>*A tonalidade da cor pode variar de acordo com a sua tela ou monitor</p>\n</div>\n</div>\n<div>&nbsp;</div>\n</div>",
+    "imagemURL": ""
+  },
+  {
+    "id": 16376121681,
+    "idProdutoPai": 16376121680,
+    "nome": "Vestido Kimono Kyra Off White COR:Off White;TAMANHO:P",
+    "codigo": "00641102",
+    "preco": 299.99,
+    "precoCusto": 0,
+    "estoque": {
+      "saldoVirtualTotal": 2
+    },
+    "tipo": "P",
+    "situacao": "A",
+    "formato": "S",
+    "descricaoCurta": "<div>VESTIDO KIMONO KYRA&nbsp;<br /><br /></div>\n<div>Vestido modelo kimono, possui amarra&ccedil;&otilde;es na parte da frente, para melhor ajuste no corpo, deixando a pe&ccedil;a mais acinturada. Ziper na parte das costas, acompanhado de bot&otilde;es para fechamento, forro na parte de dentro, possui tambem as mangas mais soltas, sem bojo. Uma pe&ccedil;a super elegante e confortavel.</div>\n<div>&nbsp;</div>\n<div>\n<div>\n<p>Composi&ccedil;&atilde;o da pe&ccedil;a: 70% viscose e 30% linho</p>\n<div>\n<table style=\"width: 733px;\" border=\"1\">\n<tbody>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\"><strong>Medidas</strong></td>\n<td style=\"width: 148.703px;\">P</td>\n<td style=\"width: 168.234px;\">M</td>\n<td style=\"width: 167.375px;\">G</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Veste&nbsp;</td>\n<td style=\"width: 148.703px;\">36/38</td>\n<td style=\"width: 168.234px;\">40/42</td>\n<td style=\"width: 167.375px;\">42/44</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Busto</td>\n<td style=\"width: 148.703px;\">96cm</td>\n<td style=\"width: 168.234px;\">110cm</td>\n<td style=\"width: 167.375px;\">114cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Mangas</td>\n<td style=\"width: 148.703px; text-align: center;\">36cm</td>\n<td style=\"width: 168.234px; text-align: center;\">36cm</td>\n<td style=\"width: 167.375px; text-align: center;\">36cm</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Cintura</td>\n<td style=\"width: 148.703px;\">86cm</td>\n<td style=\"width: 168.234px;\">96cm</td>\n<td style=\"width: 167.375px;\">106cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Comprimento</td>\n<td style=\"text-align: center; width: 148.703px;\">86cm</td>\n<td style=\"text-align: center; width: 168.234px;\">88cm</td>\n<td style=\"text-align: center; width: 167.375px;\">90cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Quadril</td>\n<td style=\"text-align: center; width: 148.703px;\">106cm</td>\n<td style=\"text-align: center; width: 168.234px;\">110cm</td>\n<td style=\"text-align: center; width: 167.375px;\">114cm</td>\n</tr>\n</tbody>\n</table>\n<p>*A tonalidade da cor pode variar de acordo com a sua tela ou monitor</p>\n</div>\n</div>\n<div>&nbsp;</div>\n</div>",
+    "imagemURL": ""
+  },
+  {
+    "id": 16376121680,
+    "nome": "Vestido Kimono Kyra Off White",
+    "codigo": "247617767",
+    "preco": 299.99,
+    "precoCusto": 0,
+    "tipo": "P",
+    "situacao": "A",
+    "formato": "V",
+    "descricaoCurta": "<div>VESTIDO KIMONO KYRA&nbsp;<br /><br /></div>\n<div>Vestido modelo kimono, possui amarra&ccedil;&otilde;es na parte da frente, para melhor ajuste no corpo, deixando a pe&ccedil;a mais acinturada. Ziper na parte das costas, acompanhado de bot&otilde;es para fechamento, forro na parte de dentro, possui tambem as mangas mais soltas, sem bojo. Uma pe&ccedil;a super elegante e confortavel.</div>\n<div>&nbsp;</div>\n<div>\n<div>\n<p>Composi&ccedil;&atilde;o da pe&ccedil;a: 70% viscose e 30% linho</p>\n<div>\n<table style=\"width: 733px;\" border=\"1\">\n<tbody>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\"><strong>Medidas</strong></td>\n<td style=\"width: 148.703px;\">P</td>\n<td style=\"width: 168.234px;\">M</td>\n<td style=\"width: 167.375px;\">G</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Veste&nbsp;</td>\n<td style=\"width: 148.703px;\">36/38</td>\n<td style=\"width: 168.234px;\">40/42</td>\n<td style=\"width: 167.375px;\">42/44</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Busto</td>\n<td style=\"width: 148.703px;\">96cm</td>\n<td style=\"width: 168.234px;\">110cm</td>\n<td style=\"width: 167.375px;\">114cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Mangas</td>\n<td style=\"width: 148.703px; text-align: center;\">36cm</td>\n<td style=\"width: 168.234px; text-align: center;\">36cm</td>\n<td style=\"width: 167.375px; text-align: center;\">36cm</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td style=\"width: 192.562px;\">Cintura</td>\n<td style=\"width: 148.703px;\">86cm</td>\n<td style=\"width: 168.234px;\">96cm</td>\n<td style=\"width: 167.375px;\">106cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Comprimento</td>\n<td style=\"text-align: center; width: 148.703px;\">86cm</td>\n<td style=\"text-align: center; width: 168.234px;\">88cm</td>\n<td style=\"text-align: center; width: 167.375px;\">90cm</td>\n</tr>\n<tr>\n<td style=\"width: 192.562px; text-align: center;\">Quadril</td>\n<td style=\"text-align: center; width: 148.703px;\">106cm</td>\n<td style=\"text-align: center; width: 168.234px;\">110cm</td>\n<td style=\"text-align: center; width: 167.375px;\">114cm</td>\n</tr>\n</tbody>\n</table>\n<p>*A tonalidade da cor pode variar de acordo com a sua tela ou monitor</p>\n</div>\n</div>\n<div>&nbsp;</div>\n</div>",
+    "imagemURL": ""
+  }
+]

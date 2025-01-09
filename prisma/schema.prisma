@@ -40,3 +40,49 @@ model ClientBling {
 
   @@map("clientbling")
 }
+
+model Produtos {
+  id             Int      @id @default(autoincrement())
+  codigoSeta     String?  @unique
+  referenciaSeta String?
+  idBling        BigInt   @unique
+  codigoBling    String
+  nome           String
+  categoria      String?
+  marca          String?
+  preco          Decimal
+  precoPromocao  Decimal?
+  precoCusto     Decimal
+  tipo           String
+  situacao       String
+  formato        String
+  createAt       DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  skus Skus[]
+
+  @@map("produtos")
+}
+
+model Skus {
+  id                Int      @id @default(autoincrement())
+  produtoId         Int
+  idBling           BigInt
+  codigoBling       String
+  idProdutoPaiBling BigInt
+  nome              String
+  cor               String
+  tamanho           String
+  preco             Decimal
+  precoCusto        Decimal
+  estoque           Int?
+  tipo              String
+  situacao          String
+  formato           String
+  createat          DateTime @default(now())
+  updatedat         DateTime @updatedAt
+
+  pai Produtos @relation(fields: [produtoId], references: [id])
+
+  @@map("skus")
+}
